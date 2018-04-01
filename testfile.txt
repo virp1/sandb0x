@@ -2,4 +2,5 @@ This is a new test file
 This is added row
 This is row 3
 Row 4
-Tämä on uusi lisäys
+Tï¿½mï¿½ on uusi lisï¿½ys
+2238
